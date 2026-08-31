@@ -5,7 +5,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<div className="p-8 text-primary font-bold">TaskFlow App is running!</div>} />
+        <Route path="/" element={<div className="p-8 text-primary font-bold">TaskFlowssssssss App is running!</div>} />
       </Routes>
     </Router>
   );
